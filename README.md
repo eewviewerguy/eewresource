@@ -6,7 +6,7 @@
 - 2 バツ印
   affinity designerの試用版を使い作成
 - 3 警告マーク
-     [silhouette illust様](https://www.silhouette-illust.com/)
+     [silhouette illust様](https://www.silhouette-illust.com/)  
   またこのレポジトリに保存されている画像の保存などはクレジット先のウェブサイトからお願いします。
 ## 震度アイコン
    震度アイコンについては問題がないのと記載のしようがないので、クレジットなし
